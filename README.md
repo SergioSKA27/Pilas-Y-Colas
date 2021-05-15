@@ -1,2 +1,2 @@
 # Pilas-Y-Colas
-Implementacion de la estructura de datos cola en C++.
+Implementacion de las estructuras de datos pila y cola en C++.
